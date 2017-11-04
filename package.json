@@ -1,0 +1,27 @@
+{
+  "name": "recipe-box",
+  "version": "1.0.0",
+  "description": "A freecodecamp project for the data-visualisation section",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidzambo/fcc-recipe-box.git"
+  },
+  "keywords": [
+    "Recipe",
+    "Box",
+    "React",
+    "Sass",
+    "Bootstrap",
+    "Freecodecamp"
+  ],
+  "author": "David Zambo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidzambo/fcc-recipe-box/issues"
+  },
+  "homepage": "https://github.com/davidzambo/fcc-recipe-box#readme"
+}
